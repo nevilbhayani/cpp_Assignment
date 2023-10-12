@@ -1,0 +1,29 @@
+*What is the difference between OOP and POP? 
+
+Differences Between OOP and POP
+OOP refers to Object Oriented Programming. It deals with objects and their properties. POP refers to Procedural Oriented Programming and deals with programs and functions. An object-oriented program uses the bottom-up approach.
+Computer programming languages are designed to operate with high-level structures that have been pre-defined. 'Programming Paradigm' is the technical term used to describe these structures. The programming paradigm describes how a computer program's structure and elements are organised. Object-oriented programming (OOP) and procedure-oriented programming (POP) are two paradigms for categorising programming architectures and are commonly used in software development. 
+
+Structured programming first became popular in the 1970s, introducing a set of principles that made it easier to write and maintain code. POP was one of the first methods of programming in structured programming. OOP came later, in the 1980s. Today, it's one of the most popular programming languages. 
+Both of these programming techniques, OOP and POP, are used in a wide range of applications. They each take a distinct approach to their task. On one hand, the OOP programming style separates an entire program into objects. The POP programming style, on the other hand, divides it into functions. Thus, the basic difference between OOP and POP is that the former treats data as objects, while the latter treats code as a sequence of steps. 
+
+C is a structural or procedural programming language that was used for system applications and low-level programming applications. Whereas C++ is an object-oriented programming language having some additional features like Encapsulation, Data Hiding, Data Abstraction, Inheritance, Polymorphism, etc.
+Why is C++ preferred over the C programming language?
+C++ is an extension of the C language along with Object-Oriented Programming language (OOPs) that gives the advantage of security, better performance, speed, scalability, built-in library, and many more. Due to this, C++ is preferred if someone wants to work on complex projects.
+Is C still used by the developers?
+Yes, today also, many companies and developers use the C programming language.
+
+Similarities between C and C++ are: 
+1.Both the languages have a similar syntax.
+2.Code structure of both the languages are same.
+3.The compilation of both the languages is similar.
+4.They share the same basic syntax. Nearly all of C’s operators and keywords are also present in C++ and do the same thing.
+5.C++ has a slightly extended grammar than C, but the basic grammar is the same.
+6.Basic memory model of both is very close to the hardware.
+7.Same notions of stack, heap, file-scope and static variables are present in both the languages.
+
+What is C?
+C is a structural or procedural oriented programming language which is machine-independent and extensively used in various applications.
+C is the basic programming language that can be used to develop from the operating systems (like Windows) to complex programs like Oracle database, Git, Python interpreter, and many more. C programming language can be called a god's programming language as it forms the base for other programming languages. If we know the C language, then we can easily learn other programming languages. C language was developed by the great computer scientist Dennis Ritchie at the Bell Laboratories. It contains some additional features that make it unique from other programming languages.
+What is C++?
+C++ is a special-purpose programming language developed by Bjarne Stroustrup at Bell Labs circa 1980. C++ language is very similar to C language, and it is so compatible with C that it can run 99% of C programs without changing any source of code though C++ is an object-oriented programming language, so it is safer and well-structured programming language than C.
